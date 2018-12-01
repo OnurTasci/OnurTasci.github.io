@@ -1,6 +1,3 @@
-# OnurTasci.me
-
-<h1>ONUR TASCİ</h1>
 <h2>Profesyonel Çözümler</h2>
 <h4>Firmanız veya şahsınız adına profesyonel kalitede, anahtar teslim internet sitesi ve mobil uygulama yapmaktayım.</h4
 
